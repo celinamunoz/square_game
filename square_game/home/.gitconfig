@@ -1,0 +1,13 @@
+[user]
+    name = celinamunoznyc
+    email = celinam3843@tywls.org
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current
